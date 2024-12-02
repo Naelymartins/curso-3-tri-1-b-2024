@@ -7,4 +7,13 @@ header{
 
     border-bottom: solid 2px rgb blue;*/borda solida de px azul*/ 
     padding:20px;/*espaçamento imterno*/
-    font-size:32px/*tamanho da fonte*/
+    font-size:32px;/*tamanho da fonte*/
+    color:bisque;/*cor da fonte*/
+
+
+
+
+     }
+     section{ 
+        background-color: aquamarine;
+     } 
